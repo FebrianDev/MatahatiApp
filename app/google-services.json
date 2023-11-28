@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096298137126",
+    "project_id": "matahatiapp",
+    "storage_bucket": "matahatiapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096298137126:android:51b70ddd0d38b987c0c8e7",
+        "android_client_info": {
+          "package_name": "com.febrian.matahatiapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Gj4z8GsHL3u-xY5UZW6q0fc64PAZGbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
